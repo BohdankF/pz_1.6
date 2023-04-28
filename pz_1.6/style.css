@@ -75,15 +75,15 @@ span{
     margin-top: 20px;
 }
 .auth_buttons {
-    
     align-items: center;
     display: inline-flex;
     justify-content: center;
     margin-right: 5px;
-    color: black;
+    color: yellow;
     padding: 5px 10px;
     line-height: 60px;
     font-size: 20px;
+    border: solid black 2px;
 }
 
 .footer{
@@ -97,3 +97,4 @@ span{
     color: #ffffff;
     font-size: 10px;
 }
+
